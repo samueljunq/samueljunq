@@ -32,7 +32,7 @@
 ##
 <div align="center">
   
- ![Snake animation](https://github.com/samueljunq/samueljunq/blob/main/snake/main)
+ ![Snake animation](https://github.com/samueljunq/samueljunq/blob/main/snake/cobrinha.yml)
   
 </div>
 
