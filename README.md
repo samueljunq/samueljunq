@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000000f&height=180&section=header&text=Samuel&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=180&section=header&text=Samuel Junqueira&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 
 
@@ -37,4 +37,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000000f&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=150&section=footer"/>
