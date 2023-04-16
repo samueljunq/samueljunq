@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=180&section=header&text=Samuel Junqueira&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=180&section=header&text=Samuel+JunqueirafontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Be+Welcome++:%29)](https://git.io/typing-svg)
 
@@ -8,7 +6,7 @@
 <div align="center"> 
   <h3 align="left">Git Stats</h3>
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=samueljunq&show_icons=true&count_private=true&hide_border=true&title_color=823cd6&icon_color=823cd6&text_color=ffffff&bg_color=0d1117" alt="samueljunq's github stats" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljunq&layout=compact&hide_border=true&title_color=828cd6&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljunq&layout=compact&hide_border=true&title_color=823cd6&text_color=ffffff&bg_color=0d1117" />
 </div>
 
   ##
@@ -26,14 +24,15 @@
   ##
 <div align="left" >
   <h3>Contact</h3>
-  <a href="https://instagram.com/samueljunq/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "junqueira20111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/samueljunq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:junqueira20111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/samuel-junqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
 <div align="center">
   
+ ![Snake animation](https://github.com/leopaivap/leopaivap/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
