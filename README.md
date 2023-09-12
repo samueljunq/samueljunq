@@ -1,7 +1,7 @@
 ### Olá, eu sou o Samuel 👋
 
 - 📚 Sistemas de Informação IFMG
-- 👨‍💻 Atualmente estou Estudando JAVA, SQL, JavaScript
+- 👨‍💻 Atualmente estou Estudando JAVA, SQL
 
   ##
 <div align="center"> 
