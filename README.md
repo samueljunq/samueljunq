@@ -16,10 +16,6 @@ Linguagens de Programação: JavaScript, Java, Python
 Frameworks e Bibliotecas: SpringBoot, React, Angular, Vue.js
 Ferramentas e Tecnologias: Git, Docker, Jenkins, AWS
 Banco de Dados: MySQL, PostgreSQL, MongoDB
-Contato
-LinkedIn: linkedin.com/in/samuel-junqueira/
-Email: seuemail@exemplo.com
-GitHub: github.com/samueljunq]
 
 ## Mais Sobre Mim
 Videndo com #TECH, gosto de compartilhar conhecimento e colaborar em projetos open source. Sempre estou em busca de novas oportunidades para aprender e crescer profissionalmente.
