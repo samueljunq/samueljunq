@@ -14,11 +14,11 @@ Projetos em Destaque:
 📱 Aplicativo Mobile: Um app mobile desenvolvido com SpringBoot no backend, focado em performance e usabilidade.    
 ⚙️ API RESTful: Uma API robusta e segura para integração de serviços web.
 
-Competências Técnicas
-⛏️ Linguagens de Programação: JavaScript, Java, Python
-⛏️ Frameworks e Bibliotecas: SpringBoot, React, Angular
-⛏️ Ferramentas e Tecnologias: Git, Docker, Jenkins, AWS
-⛏️ Banco de Dados: MySQL, PostgreSQL
+Competências Técnicas  
+⛏️ Linguagens de Programação: JavaScript, Java, Python  
+⛏️ Frameworks e Bibliotecas: SpringBoot, React, Angular  
+⛏️ Ferramentas e Tecnologias: Git, Docker, Jenkins, AWS  
+⛏️ Banco de Dados: MySQL, PostgreSQL  
 
 ## Mais Sobre Mim
 Videndo com #TECH, gosto de compartilhar conhecimento e colaborar em projetos open source. Sempre estou em busca de novas oportunidades para aprender e crescer profissionalmente.  
