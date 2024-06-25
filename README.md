@@ -2,7 +2,7 @@
 # Olá, eu sou o Samuel 👋
 Sou um Entusiasta e Estudante de Desenvolvimento de Softwares e Sistemas, estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. Atualmente, estou focado em desenvolvimento Web e Mobile, utilizando ferramentas modernas e frameworks robustas.	
 
-📚 Formação Acadêmica: Sistemas de Informação no IFMG - Cursando
+📚 Formação Acadêmica: Sistemas de Informação no IFMG - Cursando  
 👨‍💻 Atualmente Estudando:
 JavaScript: Aprendendo e aplicando técnicas avançadas para desenvolvimento web interativo.
 Desenvolvimento Mobile com SpringBoot: Criando APIs robustas para aplicações móveis.
