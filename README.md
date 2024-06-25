@@ -1,9 +1,28 @@
-### Olá, eu sou o Samuel 👋
+### 
+# Olá, eu sou o Samuel 👋
+Sou um Entusiasta e Estudante de Desenvolvimento de software e estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. Atualmente, estou focado em desenvolvimento Web e Mobile, utilizando ferramentas modernas e frameworks robustas.
 
-- 📚 Sistemas de Informação IFMG
-- 👨‍💻 Atualmente estou Estudando JAVA, SQL
+📚 Formação Acadêmica: Sistemas de Informação no IFMG - Cursando
+👨‍💻 Atualmente Estudando:
+JavaScript: Aprendendo e aplicando técnicas avançadas para desenvolvimento web interativo.
+Desenvolvimento Mobile com SpringBoot: Criando APIs robustas para aplicações móveis.
+Desenvolvimento Web: Explorando frameworks modernos como React, Angular e Vue.js.
+Projetos em Destaque:
+🌐 Projeto Web Interativo: Um site dinâmico utilizando JavaScript, HTML5 e CSS3 para oferecer uma experiência de usuário imersiva.
+📱 Aplicativo Mobile: Um app mobile desenvolvido com SpringBoot no backend, focado em performance e usabilidade.
+⚙️ API RESTful: Uma API robusta e segura para integração de serviços web.
+Competências Técnicas
+Linguagens de Programação: JavaScript, Java, Python
+Frameworks e Bibliotecas: SpringBoot, React, Angular, Vue.js
+Ferramentas e Tecnologias: Git, Docker, Jenkins, AWS
+Banco de Dados: MySQL, PostgreSQL, MongoDB
+Contato
+LinkedIn: linkedin.com/in/samuel-junqueira/
+Email: seuemail@exemplo.com
+GitHub: github.com/samueljunq]
 
-  ##
+## Mais Sobre Mim
+Videndo com #TECH, gosto de compartilhar conhecimento e colaborar em projetos open source. Sempre estou em busca de novas oportunidades para aprender e crescer profissionalmente.
 <div align="center"> 
   <h3 align="left">Git Stats</h3>
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=samueljunq&show_icons=true&count_private=true&hide_border=true&title_color=823cd6&icon_color=823cd6&text_color=ffffff&bg_color=0d1117" alt="esaupdn's github stats" /> 
