@@ -6,7 +6,7 @@ Sou um Entusiasta e Estudante de Desenvolvimento de Softwares e Sistemas, estou 
 
 👨‍💻 Atualmente Estudando:  
 📚 JavaScript: Aprendendo e aplicando técnicas avançadas para desenvolvimento web interativo.  
-📚 Desenvolvimento Mobile com SpringBoot: Criando APIs robustas para aplicações móveis.
+📚 Desenvolvimento Mobile com SpringBoot: Criando APIs robustas para aplicações móveis.  
 📚 Desenvolvimento Web: Explorando frameworks modernos como React, Angular e Vue.js.  
   
 Projetos em Destaque:  
