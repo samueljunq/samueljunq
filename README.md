@@ -15,7 +15,7 @@ Projetos em Destaque:
 ⚙️ API RESTful: Uma API robusta e segura para integração de serviços web.
 
 Competências Técnicas  
-⛏️ Linguagens de Programação: JavaScript, Java, Python  
+⛏️ Linguagens de Programação: JavaScript, Java, C, C++, C#
 ⛏️ Frameworks e Bibliotecas: SpringBoot, React, Angular  
 ⛏️ Ferramentas e Tecnologias: Git, Docker, Jenkins, AWS  
 ⛏️ Banco de Dados: MySQL, PostgreSQL  
