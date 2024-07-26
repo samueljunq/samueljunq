@@ -55,4 +55,4 @@ Videndo com #TECH, gosto de compartilhar conhecimento e colaborar em projetos op
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2484&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f1f1ff1&height=150&section=footer"/>
