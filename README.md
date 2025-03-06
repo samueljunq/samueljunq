@@ -1,25 +1,27 @@
 ### 
 # Olá, eu sou o Samuel 👋
-Sou um Entusiasta e Estudante de Desenvolvimento de Softwares e Sistemas, estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. Atualmente, estou focado em desenvolvimento Web e Mobile, utilizando ferramentas modernas e frameworks robustas.	
+Sou Samuel Junqueira, desenvolvedor Front-End e estrategista visual, apaixonado por criar experiências digitais que unem design e tecnologia para gerar resultados reais. Com foco no desenvolvimento web e mobile, estou sempre buscando melhorar minhas habilidades e acompanhar as tendências mais recentes para entregar soluções inovadoras e impactantes.
 
-📚 Formação Acadêmica: Sistemas de Informação no IFMG - Cursando  
+📚 Formação Acadêmica: Sistemas de Informação no IFMG - Cursando
 
-👨‍💻 Atualmente Estudando:  
-📚 JavaScript: Aprendendo e aplicando técnicas avançadas para desenvolvimento web interativo.  
-📚 Desenvolvimento Mobile com SpringBoot: Criando APIs robustas para aplicações móveis.  
-📚 Desenvolvimento Web: Explorando frameworks modernos como React, Angular e Vue.js.  
-  
-Projetos em Destaque:  
-🌐 Projeto Web Interativo: Um site dinâmico utilizando JavaScript, HTML5 e CSS3 para oferecer uma experiência de usuário imersiva.  
-📱 Aplicativo Mobile: Um app mobile desenvolvido com SpringBoot no backend, focado em performance e usabilidade.    
-⚙️ API RESTful: Uma API robusta e segura para integração de serviços web.
+👨‍💻 Atualmente Estudando:
+📚 JavaScript: Dominando técnicas avançadas para desenvolvimento web dinâmico e interativo.
+📚 Desenvolvimento Mobile: Explorando frameworks modernos e criando APIs robustas para apps móveis com SpringBoot.
+📚 Desenvolvimento Web: Aprofundando conhecimentos em frameworks como React, Angular e Next.js para criar experiências ágeis e responsivas.
+📚 UX/UI Design: Melhorando a criação de interfaces centradas no usuário, aliando estética e usabilidade.
 
-Competências Técnicas  
-⛏️ Linguagens de Programação: JavaScript, Java, C, C++, C#  
-⛏️ Frameworks e Bibliotecas: SpringBoot, React, Angular  
-⛏️ Ferramentas e Tecnologias: Git, Docker, Jenkins, AWS  
-⛏️ Banco de Dados: MySQL, PostgreSQL  
+Projetos em Destaque:
+🌐 Portal O Douradense: Desenvolvi o portal de notícias regional com design atrativo, responsivo e otimizado para SEO, usando WordPress, JavaScript e Next.js.
+📱 Life Vida na Sua Casa: Criação de um site moderno e sofisticado para uma agência de cuidados domiciliares, focado em atrair clientes de alto ticket.
+⚙️ API RESTful: Construção de uma API robusta e segura para integração de serviços web.
 
+Competências Técnicas
+⛏️ Linguagens de Programação: JavaScript, HTML5, CSS3, Java, C, C++
+⛏️ Frameworks e Bibliotecas: React, Angular, Next.js, Webflow
+⛏️ Ferramentas e Tecnologias: Git, Docker, AWS, Webflow
+⛏️ Banco de Dados: MySQL, PostgreSQL
+
+Objetivo: Continuar expandindo minha expertise no desenvolvimento web e mobile, com foco em criar soluções que não apenas atendem às necessidades dos clientes, mas também geram impacto real nos negócios.
 ## Mais Sobre Mim
 Videndo com #TECH, gosto de compartilhar conhecimento e colaborar em projetos open source. Sempre estou em busca de novas oportunidades para aprender e crescer profissionalmente.  
 <div align="center"> 
